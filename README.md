@@ -4,6 +4,11 @@ https://www.bigocheatsheet.com/
 
 http://infotechgems.blogspot.com/2011/11/java-collections-performance-time.html
 
+![Alt text](/Time1.jpg?raw=true "Optional Title")
+![Alt text](/Time2.jpg?raw=true "Optional Title")
+![Alt text](/Time3.jpg?raw=true "Optional Title")
+
+
 Below are the Big O performance of common functions of different Java Collections.
 
 ### List
